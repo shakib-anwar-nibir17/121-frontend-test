@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .swiper {
+    z-index: 0 !important;
+  }
+  .swiper-wrapper {
+    z-index: 0 !important;
+  }
+}
